@@ -211,7 +211,7 @@ div img:hover {
 .small-logo {
   display: none;
 }
-@media (max-width: 900px) {
+@media (max-width: 600px) {
   h1 {
     font-weight: 700;
     line-height: 78px;
