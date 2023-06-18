@@ -211,11 +211,15 @@ div img:hover {
 .small-logo {
   display: none;
 }
-@media (max-width: 600px) {
+@media (max-width: 900px) {
   h1 {
     font-weight: 700;
     line-height: 78px;
     font-size: 44px;
+  }
+  .navbar-toggler {
+    text-align: center;
+    display: block;
   }
   .hero {
     padding: 70px 20px;
