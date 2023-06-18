@@ -92,7 +92,9 @@ p {
   .hero {
     padding: 80px 20px;
   }
-
+  .navbar {
+    padding: 80px 20px;
+  }
   .project-desciption {
     padding: 0;
     text-align: center;
